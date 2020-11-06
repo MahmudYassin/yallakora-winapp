@@ -77,7 +77,7 @@
             // 
             // sqlConnection1
             // 
-            this.sqlConnection1.ConnectionString = "Data Source=DESKTOP-MR0AN74\\SQLEXPRESS;Initial Catalog=project;Integrated Securit" +
+            this.sqlConnection1.ConnectionString = "Data Source=DESKTOP-3PNIRUL\\SQLEXPRESS;Initial Catalog=project;Integrated Securit" +
     "y=True";
             this.sqlConnection1.FireInfoMessageEventOnUserErrors = false;
             // 
