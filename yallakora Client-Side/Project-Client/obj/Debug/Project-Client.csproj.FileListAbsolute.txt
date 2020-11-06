@@ -1,0 +1,63 @@
+D:\ITI\4. Visual C#\Project\Project-Client\Project-Client\bin\Debug\Project-Client.exe.config
+D:\ITI\4. Visual C#\Project\Project-Client\Project-Client\bin\Debug\Project-Client.exe
+D:\ITI\4. Visual C#\Project\Project-Client\Project-Client\bin\Debug\Project-Client.pdb
+D:\ITI\4. Visual C#\Project\Project-Client\Project-Client\obj\Debug\Project-Client.csprojAssemblyReference.cache
+D:\ITI\4. Visual C#\Project\Project-Client\Project-Client\obj\Debug\Project_Client.Form1.resources
+D:\ITI\4. Visual C#\Project\Project-Client\Project-Client\obj\Debug\Project_Client.Properties.Resources.resources
+D:\ITI\4. Visual C#\Project\Project-Client\Project-Client\obj\Debug\Project-Client.csproj.GenerateResource.cache
+D:\ITI\4. Visual C#\Project\Project-Client\Project-Client\obj\Debug\Project-Client.csproj.CoreCompileInputs.cache
+D:\ITI\4. Visual C#\Project\Project-Client\Project-Client\obj\Debug\Project-Client.exe
+D:\ITI\4. Visual C#\Project\Project-Client\Project-Client\obj\Debug\Project-Client.pdb
+D:\ITI\4. Visual C#\Project\Project-Client\Project-Client\obj\Debug\Project_Client.Match.resources
+D:\ITI\4. Visual C#\Project\Project-Client\Project-Client\obj\Debug\Project_Client.Team.resources
+C:\Users\Amr\source\repos\Project-Client\Project-Client\bin\Debug\Project-Client.exe.config
+C:\Users\Amr\source\repos\Project-Client\Project-Client\bin\Debug\Project-Client.exe
+C:\Users\Amr\source\repos\Project-Client\Project-Client\bin\Debug\Project-Client.pdb
+C:\Users\Amr\source\repos\Project-Client\Project-Client\obj\Debug\Project-Client.csprojAssemblyReference.cache
+C:\Users\Amr\source\repos\Project-Client\Project-Client\obj\Debug\Project_Client.Form1.resources
+C:\Users\Amr\source\repos\Project-Client\Project-Client\obj\Debug\Project_Client.Match.resources
+C:\Users\Amr\source\repos\Project-Client\Project-Client\obj\Debug\Project_Client.Properties.Resources.resources
+C:\Users\Amr\source\repos\Project-Client\Project-Client\obj\Debug\Project_Client.Team.resources
+C:\Users\Amr\source\repos\Project-Client\Project-Client\obj\Debug\Project-Client.csproj.GenerateResource.cache
+C:\Users\Amr\source\repos\Project-Client\Project-Client\obj\Debug\Project-Client.csproj.CoreCompileInputs.cache
+C:\Users\Amr\source\repos\Project-Client\Project-Client\obj\Debug\Project-Client.exe
+C:\Users\Amr\source\repos\Project-Client\Project-Client\obj\Debug\Project-Client.pdb
+E:\C# project\YallaKora Windows Application\Project-Client\Project-Client\obj\Debug\Project-Client.csprojAssemblyReference.cache
+E:\C# project\YallaKora Windows Application\Project-Client\Project-Client\obj\Debug\Project_Client.Home.resources
+E:\C# project\YallaKora Windows Application\Project-Client\Project-Client\obj\Debug\Project_Client.Match.resources
+E:\C# project\YallaKora Windows Application\Project-Client\Project-Client\obj\Debug\Project_Client.Properties.Resources.resources
+E:\C# project\YallaKora Windows Application\Project-Client\Project-Client\obj\Debug\Project_Client.Team.resources
+E:\C# project\YallaKora Windows Application\Project-Client\Project-Client\obj\Debug\Project-Client.csproj.GenerateResource.cache
+E:\C# project\YallaKora Windows Application\Project-Client\Project-Client\obj\Debug\Project-Client.csproj.CoreCompileInputs.cache
+E:\C# project\YallaKora Windows Application\Project-Client\Project-Client\obj\Debug\Project-Client.exe
+E:\C# project\YallaKora Windows Application\Project-Client\Project-Client\obj\Debug\Project-Client.pdb
+E:\C# project\YallaKora Windows Application\Project-Client\Project-Client\bin\Debug\Project-Client.exe.config
+E:\C# project\YallaKora Windows Application\Project-Client\Project-Client\bin\Debug\Project-Client.exe
+E:\C# project\YallaKora Windows Application\Project-Client\Project-Client\bin\Debug\Project-Client.pdb
+E:\C# project\YallaKora Windows Application\Project-Client\Project-Client\obj\Debug\Project_Client.LeagueInfo.resources
+C:\Users\Amr\source\repos\YallaKora-Windows-Application\yallakora Client-Side\Project-Client\bin\Debug\Project-Client.exe.config
+C:\Users\Amr\source\repos\YallaKora-Windows-Application\yallakora Client-Side\Project-Client\bin\Debug\Project-Client.exe
+C:\Users\Amr\source\repos\YallaKora-Windows-Application\yallakora Client-Side\Project-Client\bin\Debug\Project-Client.pdb
+C:\Users\Amr\source\repos\YallaKora-Windows-Application\yallakora Client-Side\Project-Client\obj\Debug\Project-Client.csprojAssemblyReference.cache
+C:\Users\Amr\source\repos\YallaKora-Windows-Application\yallakora Client-Side\Project-Client\obj\Debug\Project_Client.LeagueInfo.resources
+C:\Users\Amr\source\repos\YallaKora-Windows-Application\yallakora Client-Side\Project-Client\obj\Debug\Project_Client.Home.resources
+C:\Users\Amr\source\repos\YallaKora-Windows-Application\yallakora Client-Side\Project-Client\obj\Debug\Project_Client.Match.resources
+C:\Users\Amr\source\repos\YallaKora-Windows-Application\yallakora Client-Side\Project-Client\obj\Debug\Project_Client.Properties.Resources.resources
+C:\Users\Amr\source\repos\YallaKora-Windows-Application\yallakora Client-Side\Project-Client\obj\Debug\Project_Client.Team.resources
+C:\Users\Amr\source\repos\YallaKora-Windows-Application\yallakora Client-Side\Project-Client\obj\Debug\Project-Client.csproj.GenerateResource.cache
+C:\Users\Amr\source\repos\YallaKora-Windows-Application\yallakora Client-Side\Project-Client\obj\Debug\Project-Client.csproj.CoreCompileInputs.cache
+C:\Users\Amr\source\repos\YallaKora-Windows-Application\yallakora Client-Side\Project-Client\obj\Debug\Project-Client.exe
+C:\Users\Amr\source\repos\YallaKora-Windows-Application\yallakora Client-Side\Project-Client\obj\Debug\Project-Client.pdb
+F:\Mahmoud\iti\visual c#\project\YallaKora-Windows-Application\yallakora Client-Side\Project-Client\bin\Debug\Project-Client.exe.config
+F:\Mahmoud\iti\visual c#\project\YallaKora-Windows-Application\yallakora Client-Side\Project-Client\bin\Debug\Project-Client.exe
+F:\Mahmoud\iti\visual c#\project\YallaKora-Windows-Application\yallakora Client-Side\Project-Client\bin\Debug\Project-Client.pdb
+F:\Mahmoud\iti\visual c#\project\YallaKora-Windows-Application\yallakora Client-Side\Project-Client\obj\Debug\Project-Client.csprojAssemblyReference.cache
+F:\Mahmoud\iti\visual c#\project\YallaKora-Windows-Application\yallakora Client-Side\Project-Client\obj\Debug\Project_Client.LeagueInfo.resources
+F:\Mahmoud\iti\visual c#\project\YallaKora-Windows-Application\yallakora Client-Side\Project-Client\obj\Debug\Project_Client.Home.resources
+F:\Mahmoud\iti\visual c#\project\YallaKora-Windows-Application\yallakora Client-Side\Project-Client\obj\Debug\Project_Client.Match.resources
+F:\Mahmoud\iti\visual c#\project\YallaKora-Windows-Application\yallakora Client-Side\Project-Client\obj\Debug\Project_Client.Properties.Resources.resources
+F:\Mahmoud\iti\visual c#\project\YallaKora-Windows-Application\yallakora Client-Side\Project-Client\obj\Debug\Project_Client.Team.resources
+F:\Mahmoud\iti\visual c#\project\YallaKora-Windows-Application\yallakora Client-Side\Project-Client\obj\Debug\Project-Client.csproj.GenerateResource.cache
+F:\Mahmoud\iti\visual c#\project\YallaKora-Windows-Application\yallakora Client-Side\Project-Client\obj\Debug\Project-Client.csproj.CoreCompileInputs.cache
+F:\Mahmoud\iti\visual c#\project\YallaKora-Windows-Application\yallakora Client-Side\Project-Client\obj\Debug\Project-Client.exe
+F:\Mahmoud\iti\visual c#\project\YallaKora-Windows-Application\yallakora Client-Side\Project-Client\obj\Debug\Project-Client.pdb
